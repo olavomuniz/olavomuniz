@@ -9,7 +9,7 @@ Desenvolvedor em formação, explorando o mundo do desenvolvimento de software e
 
 
 
-Sobre mim <br>
+ <br> Sobre mim <br>
 - Estudante de Sistemas de Informação
 - Estudando e desenvolvendo projetos em Java
 
